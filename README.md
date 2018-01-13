@@ -2,11 +2,11 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: Persian
 
-SRS ID: *CST???SRS00*
+SRS ID: *CST162SRS00*
 
-Unresolved Issues:  None. 
+Unresolved Issues:  None AFAIC. 
 
 Notes: Compiled with Visual Studio 2017 on Windows 10. 
 
@@ -19,7 +19,7 @@ Purpose: Demonstrate a 100% correct submission for the C++ Hello World program.
 
 Instructions: 
 
-- [ ] 0. Fork this repository.  
+- [x] 0. Fork this repository.  
 - [ ] 1. Modify main.cpp by uncommenting the code to output "hello, world".  
 - [ ] 2. Build and run the program.  
 - [ ] 3. Update this README.md file.  
